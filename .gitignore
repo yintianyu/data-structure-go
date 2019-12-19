@@ -1,0 +1,6 @@
+pkg/*
+bin/*
+.vscode/*
+.idea/*
+/src/github.com/
+/src/golang.org/x/
